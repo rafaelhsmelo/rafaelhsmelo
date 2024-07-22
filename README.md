@@ -1,4 +1,7 @@
-## Hi there 👋
+# Rafael Melo
+## I type stuff and hope it does stuff
+
+          
 
 <!--
 **rafaelhsmelo/rafaelhsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
