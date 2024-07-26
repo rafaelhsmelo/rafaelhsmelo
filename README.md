@@ -1,19 +1,25 @@
 # Rafael Melo
-## I type stuff and hope it does stuff
+## I type stuff and it does stuff
 
-          
+- Systems Analysis and Development Student at Estácio;
+- Passionate about tech, learning and optimization;
+- Previous experience as a Customer Service Manager at CAU/PI;
+- Architect and Urbanist with a postgraduate degree in Social Projects and Public Policies;
 
-<!--
-**rafaelhsmelo/rafaelhsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats 🧮
 
-Here are some ideas to get you started:
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhsmelo&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rafael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsmelo&layout=compact&theme=dark)
+
+## Skills
+
+**<span style="color:grey;">Learning</span>:**  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+
+---
+
+## Reach Me
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
