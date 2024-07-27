@@ -26,6 +26,10 @@ Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS`, `Git`\
 Certifications: [Professional Certifications](https://cursos.alura.com.br/user/rafaelhsmelo)
 <br/>
 
+## Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelhsmelo)
+![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
+
 ## GitHub Stats 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -34,5 +38,5 @@ Certifications: [Professional Certifications](https://cursos.alura.com.br/user/r
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsmelo&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="rafaelhsmelo's Top Languages" style="height: 200px; margin: 10px;"/> -->
 </div>
 
-## Reach Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafaelhsmelo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
