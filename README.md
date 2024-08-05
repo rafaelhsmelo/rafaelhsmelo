@@ -54,13 +54,16 @@ Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelhsmelo)
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
 
-## GitHub Stats 
+## GitHub Stats
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaelhsmelo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="rafaelhsmelo's Stats" style="height: 200px; margin: 10px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelhsmelo&theme=dark&hide_border=true" alt="rafaelhsmelo's Streak" style="height: 200px; margin: 10px;"/>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsmelo&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="rafaelhsmelo's Top Languages" style="height: 200px; margin: 10px;"/> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelhsmelo&theme=dark" alt="Rafaelhsmelo's GitHub Streak" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsmelo&layout=compact&theme=dark" alt="Rafaelhsmelo's Top Languages" style="height: 200px; width: auto;" />
 </div>
+
+
+
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafaelhsmelo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
