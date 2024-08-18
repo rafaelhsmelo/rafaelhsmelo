@@ -38,7 +38,7 @@ Certifications: [Associate's degree](https://matriculas.estacio.br/graduacao/ana
 src="https://media.licdn.com/dms/image/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1730332800&v=beta&t=niRHptz_ciGxhNtVBeAwgCjB_1nQX_Qt8NdYpLPU74c"/>](https://www.linkedin.com/school/aluracursos/)
 
 **Technology Courses** \
-Skills & Technologies: `JavaScript`, `HTML5`, `CSS`, `Git`\
+Skills & Technologies: `Java`, `JavaScript`, `HTML5`, `CSS`, `Git`\
 Certifications: [Professional Certifications](https://cursos.alura.com.br/user/rafaelhsmelo)
 
 <br/>
@@ -55,19 +55,29 @@ Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) 
 <br/>
 
 ## Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelhsmelo)
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
+<div align="left">
+  <a href="https://www.linkedin.com/in/rafaelhsmelo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /> -->
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> -->
+<!--  <a href="email@rafaelhsmelo.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a> -->
+</div>
 
 ## GitHub Stats
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelhsmelo&theme=dark" alt="Rafaelhsmelo's GitHub Streak" style="height: 200px; width: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsmelo&layout=compact&theme=dark" alt="Rafaelhsmelo's Top Languages" style="height: 200px; width: auto;" />
+  <img src="https://streak-stats.demolab.com?user=rafaelhsmelo&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelhsmelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelhsmelo&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-
-
-
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafaelhsmelo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
+
