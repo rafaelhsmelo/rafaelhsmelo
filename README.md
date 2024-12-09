@@ -15,17 +15,13 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
-
 </div>
 
 ## Education
 
 <!--Estácio-->
 [<img align="left" height="75px" width="75px"
-src="https://media.licdn.com/dms/image/D4D0BAQFXVD-G0bC6og/company-logo_200_200/0/1698864015822/estacio_logo?e=1730332800&v=beta&t=qbKEhodtNFvlXRIvOKdXRy_JH621IAYQt7fkN-C2HTA"/>](https://www.linkedin.com/school/estacio/)
+src="https://github.com/rafaelhsmelo/rafaelhsmelo/blob/main/assets/estacio_logo.jpg?raw=true"/>](https://www.linkedin.com/school/estacio/)
 
 **Systems Analysis and Development** \
 Skills & Technologies: `JavaScript`, `HTML5`, `CSS`, `PHP`, `Python`, `Scrum`,\
@@ -35,7 +31,7 @@ Certifications: [Associate's degree](https://matriculas.estacio.br/graduacao/ana
 
 <!--Alura-->
 [<img align="left" height="75px" width="75px"
-src="https://media.licdn.com/dms/image/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1730332800&v=beta&t=niRHptz_ciGxhNtVBeAwgCjB_1nQX_Qt8NdYpLPU74c"/>](https://www.linkedin.com/school/aluracursos/)
+src="https://github.com/rafaelhsmelo/rafaelhsmelo/blob/main/assets/aluracursos_logo.jpg?raw=true"/>](https://www.linkedin.com/school/aluracursos/)
 
 **Technology Courses** \
 Skills & Technologies: `Java`, `JavaScript`, `HTML5`, `CSS`, `Git`\
@@ -46,11 +42,19 @@ Certifications: [Professional Certifications](https://cursos.alura.com.br/user/r
 ## Experiences
 
 [<img align="left" height="75px" width="75px"
-src="https://media.licdn.com/dms/image/D560BAQFAh5mrV_URNw/company-logo_200_200/0/1719257164288?e=1730332800&v=beta&t=d8o7KVnigKzdSNwS9GbIlJhOph5K2p7Uf-B88EnWwWM"/>](https://www.caupi.gov.br)
+src="https://github.com/rafaelhsmelo/rafaelhsmelo/blob/main/assets/mindbody_logo.jpg?raw=true"/>](https://www.mindbodyonline.com)
+
+**Customer Support Specialist @ Mindbody/ClassPass** \
+Skills & Technology: `Customer Support`, `Technical Troubleshooting`, `Systems Analysis`
+
+<br/>
+
+[<img align="left" height="75px" width="75px"
+src="https://github.com/rafaelhsmelo/rafaelhsmelo/blob/main/assets/cau_logo.jpg?raw=true"/>](https://www.caupi.gov.br)
 
 **Customer Service Manager @ CAU/PI** \
 Skills & Technology: `Quality Assurance`, `Data Analysis`, `Customer Service`\
-Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) |  [Cross-Org Coordination](https://www.caupi.gov.br/?p=22025)
+Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) | [Cross-Org Coordination](https://www.caupi.gov.br/?p=22025)
 
 <br/>
 
@@ -59,11 +63,6 @@ Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) 
   <a href="https://www.linkedin.com/in/rafaelhsmelo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /> -->
-<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> -->
-<!--  <a href="email@rafaelhsmelo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a> -->
 </div>
 
 ## GitHub Stats
@@ -78,6 +77,3 @@ Achievements: [Delivered Training Workshops](https://www.caupi.gov.br/?p=22012) 
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafaelhsmelo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
-
